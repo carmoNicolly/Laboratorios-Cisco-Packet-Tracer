@@ -1,4 +1,4 @@
-# Laboratório 01 — Router-on-a-Stick + DHCP
+# Laboratório 01 - Router-on-a-Stick + DHCP
 
 ## 📌 Objetivo
 
