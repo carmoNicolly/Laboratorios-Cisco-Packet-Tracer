@@ -31,7 +31,7 @@ As listas foram aplicadas às interfaces dos roteadores utilizando o comando `ip
 
 Abaixo, registro da configuração das ACLs padrão numeradas realizada nos roteadores durante a atividade.
 
-![Configuração das ACLs IPv4 padrão numeradas](imagens/configuracao-acl.png)
+![Configuração das ACLs IPv4 padrão numeradas](configuracao-acl.png)
 
 ## Verificação e testes
 
@@ -39,7 +39,7 @@ Após a configuração, foram utilizados comandos para verificar as ACLs e sua a
 
 Os testes permitiram observar quais comunicações eram autorizadas e quais eram bloqueadas de acordo com as regras estabelecidas.
 
-![Testes de conectividade](imagens/testes-conectividade.png)
+![Testes de conectividade](testes-conectividade.png)
 
 ## Tecnologias e conceitos
 
